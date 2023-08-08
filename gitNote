@@ -2,4 +2,8 @@ git init (list the files to send on git)
 
 git add (to add the list files to send on git like new file or added files)
 
+git add . (add all)
+
 git reset (to remove the files from the list)
+
+git commit -m "name" (to add te files on github for real this time)
