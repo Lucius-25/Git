@@ -1,0 +1,5 @@
+git init (list the files to send on git)
+
+git add (to add the list files to send on git like new file or added files)
+
+git reset (to remove the files from the list)
