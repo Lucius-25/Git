@@ -1,0 +1,29 @@
+ mkdir = create Folder
+
+touch = create Files
+
+cd = get in the folder 
+
+cd ../ = get out of the folder
+
+clear = clear terminal
+
+ls = list of the files and folders in one line horizontal way
+
+ls -l = list of the files in vertical way
+
+ls -la = list of all files including all hidden files in vertical way
+
+rm = delete only files
+
+rm -r = delete only folders
+
+rm -rf * = delete all
+
+* = all
+
+mv = move (mv "files name" space "folder name")
+
+cp = copy (cp "files name" space "new file name")
+
+vim and nano are the softwares that can you in terminal.
