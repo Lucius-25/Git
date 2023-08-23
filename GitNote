@@ -15,3 +15,11 @@ git log --oneline (commits list in oneline)
 git revert + "commit id" (delete the commit or recall the commit)
 
 git status (to check working tree is clean or not)
+
+u need to build the the repository in github and copy the HTTPS link
+
+git remote origin add "That HTTPS link"
+
+git push origin main 
+
+The End
