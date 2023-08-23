@@ -22,4 +22,10 @@ git remote origin add "That HTTPS link"
 
 git push origin main 
 
+if you are update the code (Master Situation)
+
+git add .
+git commit -m "name"
+git push origin main
+
 The End
